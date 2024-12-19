@@ -1,0 +1,17 @@
+# Ignore all class files
+*.class
+
+# Ignore DS_Store
+**/.DS_Store
+
+.metadata/
+.vscode/
+!.src/
+!*.m
+*.project
+*.classpath
+*.jar
+*.html
+*.prefs
+
+org.eclipse.core.resources.prefs
